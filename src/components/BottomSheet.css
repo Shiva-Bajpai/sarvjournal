@@ -1,0 +1,96 @@
+/* ============================================
+   BottomSheet Component Styles
+   ============================================ */
+
+.bottom-sheet-overlay {
+    position: fixed;
+    inset: 0;
+    background-color: rgba(44, 40, 37, 0.4);
+    z-index: var(--z-overlay);
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity var(--transition-slow), visibility var(--transition-slow);
+    -webkit-backdrop-filter: blur(4px);
+    backdrop-filter: blur(4px);
+}
+
+.bottom-sheet-overlay--open {
+    opacity: 1;
+    visibility: visible;
+}
+
+.bottom-sheet {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: var(--color-bg-card);
+    border-radius: var(--radius-2xl) var(--radius-2xl) 0 0;
+    z-index: var(--z-modal);
+    transform: translateY(100%);
+    transition: transform var(--transition-smooth);
+    max-height: 90vh;
+    overflow: hidden;
+    padding-bottom: var(--safe-area-bottom);
+}
+
+.bottom-sheet--open {
+    transform: translateY(0);
+}
+
+/* Handle */
+.bottom-sheet__handle {
+    display: flex;
+    justify-content: center;
+    padding: var(--space-3) 0;
+}
+
+.bottom-sheet__handle-bar {
+    width: 36px;
+    height: 4px;
+    background-color: var(--color-border);
+    border-radius: var(--radius-full);
+}
+
+/* Header */
+.bottom-sheet__header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: var(--space-2) var(--space-5) var(--space-4);
+}
+
+.bottom-sheet__title {
+    font-size: var(--text-lg);
+    font-weight: var(--font-semibold);
+    color: var(--color-text-primary);
+}
+
+.bottom-sheet__close {
+    width: 32px;
+    height: 32px;
+    border-radius: var(--radius-full);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--color-text-muted);
+    transition: all var(--transition-fast);
+}
+
+.bottom-sheet__close:hover {
+    background-color: var(--color-bg-secondary);
+    color: var(--color-text-primary);
+}
+
+/* Content */
+.bottom-sheet__content {
+    padding: 0 var(--space-5) var(--space-6);
+    overflow-y: auto;
+    max-height: calc(90vh - 100px);
+}
+
+/* Prevent body scroll when open */
+body.sheet-open {
+    overflow: hidden;
+}
+/* enhanced drag handle contrast */

@@ -1,0 +1,172 @@
+/* ============================================
+   Button Component Styles
+   ============================================ */
+
+.button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: var(--space-2);
+    padding: var(--space-3) var(--space-5);
+    font-size: var(--text-base);
+    font-weight: var(--font-medium);
+    line-height: 1;
+    border-radius: var(--radius-lg);
+    cursor: pointer;
+    transition: all var(--transition-base);
+    min-height: 48px;
+    min-width: 48px;
+    position: relative;
+    overflow: hidden;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+}
+
+/* Primary Button - Burnt Orange */
+.button--primary {
+    background-color: var(--color-accent);
+    color: white;
+    box-shadow: var(--shadow-sm);
+}
+
+.button--primary:hover {
+    background-color: var(--color-accent-hover);
+    box-shadow: var(--shadow-md);
+    transform: translateY(-1px);
+}
+
+.button--primary:active {
+    background-color: var(--color-accent-active);
+    transform: translateY(0);
+    box-shadow: var(--shadow-xs);
+}
+
+/* Secondary Button - Ghost */
+.button--secondary {
+    background-color: transparent;
+    color: var(--color-text-primary);
+    border: 1.5px solid var(--color-border);
+}
+
+.button--secondary:hover {
+    background-color: var(--color-bg-secondary);
+    border-color: var(--color-text-muted);
+}
+
+.button--secondary:active {
+    background-color: var(--color-bg-tertiary);
+}
+
+/* Ghost Button - No border */
+.button--ghost {
+    background-color: transparent;
+    color: var(--color-text-secondary);
+}
+
+.button--ghost:hover {
+    background-color: var(--color-bg-secondary);
+    color: var(--color-text-primary);
+}
+
+.button--ghost:active {
+    background-color: var(--color-bg-tertiary);
+}
+
+/* Accent Ghost */
+.button--accent-ghost {
+    background-color: var(--color-accent-light);
+    color: var(--color-accent);
+}
+
+.button--accent-ghost:hover {
+    background-color: var(--color-accent-medium);
+}
+
+.button--accent-ghost:active {
+    background-color: var(--color-accent-light);
+}
+
+/* Sizes */
+.button--sm {
+    padding: var(--space-2) var(--space-3);
+    font-size: var(--text-sm);
+    min-height: 36px;
+    min-width: 36px;
+    border-radius: var(--radius-md);
+}
+
+.button--lg {
+    padding: var(--space-4) var(--space-6);
+    font-size: var(--text-lg);
+    min-height: 56px;
+    border-radius: var(--radius-xl);
+}
+
+/* Full width */
+.button--full {
+    width: 100%;
+}
+
+/* Icon only */
+.button--icon {
+    padding: var(--space-3);
+    border-radius: var(--radius-full);
+}
+
+.button--icon.button--sm {
+    padding: var(--space-2);
+}
+
+/* Button Icon */
+.button__icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 20px;
+    height: 20px;
+}
+
+.button--sm .button__icon {
+    width: 16px;
+    height: 16px;
+}
+
+.button--lg .button__icon {
+    width: 24px;
+    height: 24px;
+}
+
+/* Disabled state */
+.button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    pointer-events: none;
+}
+
+/* Loading state */
+.button--loading {
+    color: transparent;
+    pointer-events: none;
+}
+
+.button--loading::after {
+    content: '';
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    border: 2px solid transparent;
+    border-top-color: currentColor;
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+}
+
+.button--primary.button--loading::after {
+    border-top-color: white;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+/* keyboard navigation focus ring */
