@@ -1,0 +1,142 @@
+/* ============================================
+   MoodSelector Component Styles
+   ============================================ */
+
+.mood-selector {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-3);
+}
+
+.mood-option {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--space-2);
+    padding: var(--space-5) var(--space-4);
+    background-color: var(--color-bg-secondary);
+    border-radius: var(--radius-xl);
+    border: 2px solid transparent;
+    cursor: pointer;
+    transition: all var(--transition-base);
+    -webkit-tap-highlight-color: transparent;
+}
+
+.mood-option:hover {
+    background-color: var(--color-bg-tertiary);
+}
+
+.mood-option--selected {
+    background-color: var(--color-accent-light);
+    border-color: var(--color-accent);
+}
+
+.mood-option--selected:hover {
+    background-color: var(--color-accent-light);
+}
+
+/* Emoji */
+.mood-option__emoji {
+    font-size: 2rem;
+    line-height: 1;
+    transition: transform var(--transition-base) var(--ease-spring);
+}
+
+.mood-option--selected .mood-option__emoji {
+    transform: scale(1.15);
+}
+
+/* Label */
+.mood-option__label {
+    font-size: var(--text-sm);
+    font-weight: var(--font-medium);
+    color: var(--color-text-secondary);
+    transition: color var(--transition-fast);
+}
+
+.mood-option--selected .mood-option__label {
+    color: var(--color-accent);
+    font-weight: var(--font-semibold);
+}
+
+/* Mood colors */
+.mood-option--happy.mood-option--selected {
+    background-color: rgba(232, 184, 109, 0.12);
+    border-color: var(--color-mood-happy);
+}
+
+.mood-option--happy.mood-option--selected .mood-option__label {
+    color: #B8923E;
+}
+
+.mood-option--sad.mood-option--selected {
+    background-color: rgba(123, 158, 184, 0.12);
+    border-color: var(--color-mood-sad);
+}
+
+.mood-option--sad.mood-option--selected .mood-option__label {
+    color: #5A7A94;
+}
+
+.mood-option--calm.mood-option--selected {
+    background-color: rgba(143, 184, 154, 0.12);
+    border-color: var(--color-mood-calm);
+}
+
+.mood-option--calm.mood-option--selected .mood-option__label {
+    color: #5A8A66;
+}
+
+.mood-option--anxious.mood-option--selected {
+    background-color: rgba(196, 163, 196, 0.12);
+    border-color: var(--color-mood-anxious);
+}
+
+.mood-option--anxious.mood-option--selected .mood-option__label {
+    color: #8A6A8A;
+}
+
+/* Current mood display (for triggers) */
+.mood-display {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-2);
+    padding: var(--space-2) var(--space-3);
+    background-color: var(--color-bg-secondary);
+    border-radius: var(--radius-full);
+    cursor: pointer;
+    transition: all var(--transition-fast);
+    border: 1.5px solid var(--color-border);
+}
+
+.mood-display:hover {
+    background-color: var(--color-bg-tertiary);
+    border-color: var(--color-text-muted);
+}
+
+.mood-display__emoji {
+    font-size: 1.25rem;
+    line-height: 1;
+}
+
+.mood-display__label {
+    font-size: var(--text-sm);
+    font-weight: var(--font-medium);
+    color: var(--color-text-secondary);
+}
+
+.mood-display__icon {
+    width: 16px;
+    height: 16px;
+    color: var(--color-text-muted);
+}
+
+/* Placeholder state */
+.mood-display--placeholder {
+    color: var(--color-text-placeholder);
+}
+
+.mood-display--placeholder .mood-display__label {
+    color: var(--color-text-placeholder);
+}
+/* optimized grid layout spacing */
