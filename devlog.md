@@ -11,3 +11,6 @@ Daily notes and progress tracking for the journal app.
 ### Feb 03, 2025 11:06
 - Fixed form validation
 
+### Feb 03, 2025 13:03
+- Fixed edge case bugs
+
