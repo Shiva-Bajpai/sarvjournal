@@ -17,3 +17,6 @@ Daily notes and progress tracking for the journal app.
 ### Feb 03, 2025 15:43
 - Fixed scroll behavior
 
+### Feb 03, 2025 18:46
+- Added accessibility features
+
