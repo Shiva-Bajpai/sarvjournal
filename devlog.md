@@ -23,3 +23,6 @@ Daily notes and progress tracking for the journal app.
 ### Feb 03, 2025 19:34
 - Added error handling
 
+### Feb 03, 2025 21:40
+- Improved animations
+
