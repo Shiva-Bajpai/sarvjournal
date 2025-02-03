@@ -20,3 +20,6 @@ Daily notes and progress tracking for the journal app.
 ### Feb 03, 2025 18:46
 - Added accessibility features
 
+### Feb 03, 2025 19:34
+- Added error handling
+
