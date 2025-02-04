@@ -38,3 +38,6 @@ Daily notes and progress tracking for the journal app.
 ### Feb 04, 2025 17:42
 - Fixed scroll behavior
 
+### Feb 04, 2025 18:38
+- Fixed layout issues
+
