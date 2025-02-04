@@ -32,3 +32,6 @@ Daily notes and progress tracking for the journal app.
 ### Feb 04, 2025 11:12
 - Added new component
 
+### Feb 04, 2025 12:20
+- Updated color scheme
+
