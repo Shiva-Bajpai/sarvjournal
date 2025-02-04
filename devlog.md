@@ -35,3 +35,6 @@ Daily notes and progress tracking for the journal app.
 ### Feb 04, 2025 12:20
 - Updated color scheme
 
+### Feb 04, 2025 17:42
+- Fixed scroll behavior
+
