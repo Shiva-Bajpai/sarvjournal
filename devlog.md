@@ -56,3 +56,6 @@ Daily notes and progress tracking for the journal app.
 ### Feb 05, 2025 08:01
 - Fixed memory leak
 
+### Feb 05, 2025 09:29
+- Fixed mobile layout
+
