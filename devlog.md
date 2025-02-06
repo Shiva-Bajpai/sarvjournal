@@ -68,3 +68,6 @@ Daily notes and progress tracking for the journal app.
 ### Feb 05, 2025 19:39
 - Added loading states
 
+### Feb 06, 2025 08:54
+- Worked on component styling
+
