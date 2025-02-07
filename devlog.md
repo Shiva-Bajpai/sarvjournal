@@ -92,3 +92,6 @@ Daily notes and progress tracking for the journal app.
 ### Feb 06, 2025 23:37
 - Updated tests
 
+### Feb 07, 2025 09:05
+- Updated documentation
+
