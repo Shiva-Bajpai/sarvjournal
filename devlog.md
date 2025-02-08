@@ -107,3 +107,6 @@ Daily notes and progress tracking for the journal app.
 ### Feb 07, 2025 20:55
 - Updated documentation
 
+### Feb 08, 2025 08:37
+- Added error handling
+
