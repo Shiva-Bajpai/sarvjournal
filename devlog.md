@@ -116,3 +116,6 @@ Daily notes and progress tracking for the journal app.
 ### Feb 08, 2025 15:41
 - Refactored state management
 
+### Feb 08, 2025 16:22
+- Improved animations
+
