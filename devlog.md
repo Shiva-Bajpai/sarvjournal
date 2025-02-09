@@ -137,3 +137,6 @@ Daily notes and progress tracking for the journal app.
 ### Feb 09, 2025 12:31
 - Cleaned up styles
 
+### Feb 09, 2025 14:44
+- Fixed memory leak
+
