@@ -143,3 +143,6 @@ Daily notes and progress tracking for the journal app.
 ### Feb 09, 2025 16:26
 - Improved code structure
 
+### Feb 09, 2025 17:28
+- Added loading states
+
