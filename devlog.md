@@ -155,3 +155,6 @@ Daily notes and progress tracking for the journal app.
 ### Feb 09, 2025 22:26
 - Updated tests
 
+### Feb 10, 2025 08:19
+- Added accessibility features
+
