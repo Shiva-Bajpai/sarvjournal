@@ -188,3 +188,6 @@ Daily notes and progress tracking for the journal app.
 ### Feb 11, 2025 17:36
 - Added new component
 
+### Feb 11, 2025 19:13
+- Fixed scroll behavior
+
