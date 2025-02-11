@@ -170,3 +170,6 @@ Daily notes and progress tracking for the journal app.
 ### Feb 10, 2025 20:43
 - Fixed layout issues
 
+### Feb 11, 2025 08:54
+- Updated color scheme
+
