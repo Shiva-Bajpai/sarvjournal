@@ -173,3 +173,6 @@ Daily notes and progress tracking for the journal app.
 ### Feb 11, 2025 08:54
 - Updated color scheme
 
+### Feb 11, 2025 10:33
+- Updated documentation
+
