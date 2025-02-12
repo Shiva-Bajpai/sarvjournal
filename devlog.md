@@ -203,3 +203,6 @@ Daily notes and progress tracking for the journal app.
 ### Feb 12, 2025 14:51
 - Improved touch handling
 
+### Feb 12, 2025 15:29
+- Fixed memory leak
+
