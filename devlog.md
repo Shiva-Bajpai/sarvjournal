@@ -218,3 +218,6 @@ Daily notes and progress tracking for the journal app.
 ### Feb 13, 2025 13:12
 - Fixed layout issues
 
+### Feb 13, 2025 20:52
+- Improved animations
+
