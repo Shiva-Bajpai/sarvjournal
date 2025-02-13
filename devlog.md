@@ -212,3 +212,6 @@ Daily notes and progress tracking for the journal app.
 ### Feb 13, 2025 09:31
 - Updated tests
 
+### Feb 13, 2025 12:35
+- Added keyboard support
+
