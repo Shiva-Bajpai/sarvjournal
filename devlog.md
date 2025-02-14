@@ -224,3 +224,6 @@ Daily notes and progress tracking for the journal app.
 ### Feb 13, 2025 21:01
 - Improved responsiveness
 
+### Feb 14, 2025 11:31
+- Fixed memory leak
+
