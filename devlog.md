@@ -248,3 +248,6 @@ Daily notes and progress tracking for the journal app.
 ### Feb 15, 2025 10:43
 - Fixed mobile layout
 
+### Feb 15, 2025 14:57
+- Fixed form validation
+
