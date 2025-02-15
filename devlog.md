@@ -254,3 +254,6 @@ Daily notes and progress tracking for the journal app.
 ### Feb 15, 2025 17:28
 - Fixed rendering bug
 
+### Feb 15, 2025 19:12
+- Added loading states
+
