@@ -242,3 +242,6 @@ Daily notes and progress tracking for the journal app.
 ### Feb 14, 2025 22:26
 - Cleaned up unused code
 
+### Feb 15, 2025 09:16
+- Improved animations
+
