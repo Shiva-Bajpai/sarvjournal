@@ -284,3 +284,6 @@ Daily notes and progress tracking for the journal app.
 ### Feb 16, 2025 23:04
 - Added new feature
 
+### Feb 17, 2025 08:08
+- Improved navigation
+
