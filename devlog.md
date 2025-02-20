@@ -335,3 +335,6 @@ Daily notes and progress tracking for the journal app.
 ### Feb 19, 2025 19:01
 - Updated tests
 
+### Feb 20, 2025 09:56
+- Fixed mobile layout
+
