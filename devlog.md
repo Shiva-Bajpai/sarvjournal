@@ -353,3 +353,6 @@ Daily notes and progress tracking for the journal app.
 ### Feb 20, 2025 17:16
 - Updated dependencies
 
+### Feb 20, 2025 19:24
+- Fixed mobile layout
+
