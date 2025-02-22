@@ -398,3 +398,6 @@ Daily notes and progress tracking for the journal app.
 ### Feb 22, 2025 19:02
 - Added keyboard support
 
+### Feb 22, 2025 20:09
+- Fixed mobile layout
+
