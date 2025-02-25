@@ -461,3 +461,6 @@ Daily notes and progress tracking for the journal app.
 ### Feb 25, 2025 11:14
 - Added loading states
 
+### Feb 25, 2025 14:45
+- Cleaned up unused code
+
