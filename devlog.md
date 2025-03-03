@@ -584,3 +584,6 @@ Daily notes and progress tracking for the journal app.
 ### Mar 03, 2025 14:07
 - Fixed form validation
 
+### Mar 03, 2025 15:26
+- Fixed scroll behavior
+
