@@ -770,3 +770,6 @@ Daily notes and progress tracking for the journal app.
 ### Mar 11, 2025 12:17
 - Added error handling
 
+### Mar 11, 2025 14:36
+- Added keyboard support
+
