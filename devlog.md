@@ -896,3 +896,6 @@ Daily notes and progress tracking for the journal app.
 ### Mar 16, 2025 19:27
 - Fixed form validation
 
+### Mar 16, 2025 23:04
+- Added keyboard support
+
