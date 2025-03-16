@@ -887,3 +887,6 @@ Daily notes and progress tracking for the journal app.
 ### Mar 16, 2025 12:43
 - Worked on component styling
 
+### Mar 16, 2025 13:00
+- Fixed mobile layout
+
