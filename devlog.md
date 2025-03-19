@@ -947,3 +947,6 @@ Daily notes and progress tracking for the journal app.
 ### Mar 19, 2025 10:26
 - Improved navigation
 
+### Mar 19, 2025 12:53
+- Added accessibility features
+
