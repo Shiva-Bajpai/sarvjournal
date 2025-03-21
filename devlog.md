@@ -998,3 +998,6 @@ Daily notes and progress tracking for the journal app.
 ### Mar 21, 2025 22:34
 - Added error handling
 
+### Mar 21, 2025 23:05
+- Fixed mobile layout
+
