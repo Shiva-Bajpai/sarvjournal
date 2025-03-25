@@ -1079,3 +1079,6 @@ Daily notes and progress tracking for the journal app.
 ### Mar 25, 2025 11:17
 - Fixed scroll behavior
 
+### Mar 25, 2025 13:50
+- Fixed mobile layout
+
