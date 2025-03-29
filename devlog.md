@@ -1163,3 +1163,6 @@ Daily notes and progress tracking for the journal app.
 ### Mar 29, 2025 16:30
 - Cleaned up styles
 
+### Mar 29, 2025 19:04
+- Added keyboard support
+
