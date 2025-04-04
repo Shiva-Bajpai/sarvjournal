@@ -1262,3 +1262,6 @@ Daily notes and progress tracking for the journal app.
 ### Apr 04, 2025 12:36
 - Cleaned up styles
 
+### Apr 04, 2025 14:54
+- Fixed mobile layout
+
