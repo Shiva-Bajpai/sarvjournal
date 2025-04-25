@@ -1673,3 +1673,6 @@ Daily notes and progress tracking for the journal app.
 ### Apr 24, 2025 23:44
 - Fixed layout issues
 
+### Apr 25, 2025 09:31
+- Fixed form validation
+
