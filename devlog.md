@@ -1799,3 +1799,6 @@ Daily notes and progress tracking for the journal app.
 ### May 01, 2025 13:29
 - Fixed memory leak
 
+### May 01, 2025 17:00
+- Fixed scroll behavior
+
