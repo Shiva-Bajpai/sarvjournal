@@ -1832,3 +1832,6 @@ Daily notes and progress tracking for the journal app.
 ### May 02, 2025 19:55
 - Added keyboard support
 
+### May 02, 2025 22:22
+- Improved touch handling
+
