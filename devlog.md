@@ -1901,3 +1901,6 @@ Daily notes and progress tracking for the journal app.
 ### May 05, 2025 18:34
 - Updated color scheme
 
+### May 05, 2025 21:37
+- Added keyboard support
+
