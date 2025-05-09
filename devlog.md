@@ -1967,3 +1967,6 @@ Daily notes and progress tracking for the journal app.
 ### May 09, 2025 08:44
 - Fixed rendering bug
 
+### May 09, 2025 12:17
+- Added loading states
+
