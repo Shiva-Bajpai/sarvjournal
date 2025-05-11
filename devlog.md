@@ -2018,3 +2018,6 @@ Daily notes and progress tracking for the journal app.
 ### May 11, 2025 12:37
 - Fixed edge case bugs
 
+### May 11, 2025 13:22
+- Added loading states
+
