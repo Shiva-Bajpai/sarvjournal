@@ -2498,3 +2498,6 @@ Daily notes and progress tracking for the journal app.
 ### Jun 02, 2025 11:23
 - Fixed memory leak
 
+### Jun 02, 2025 12:16
+- Added accessibility features
+
