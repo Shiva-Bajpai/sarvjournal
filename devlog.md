@@ -2522,3 +2522,6 @@ Daily notes and progress tracking for the journal app.
 ### Jun 03, 2025 13:00
 - Improved responsiveness
 
+### Jun 03, 2025 15:59
+- Improved touch handling
+
