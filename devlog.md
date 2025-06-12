@@ -2711,3 +2711,6 @@ Daily notes and progress tracking for the journal app.
 ### Jun 12, 2025 14:32
 - Fixed layout issues
 
+### Jun 12, 2025 23:57
+- Cleaned up unused code
+
