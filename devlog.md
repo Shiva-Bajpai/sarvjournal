@@ -2780,3 +2780,6 @@ Daily notes and progress tracking for the journal app.
 ### Jun 15, 2025 23:53
 - Added loading states
 
+### Jun 16, 2025 09:24
+- Added keyboard support
+
