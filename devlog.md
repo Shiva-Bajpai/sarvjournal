@@ -3086,3 +3086,6 @@ Daily notes and progress tracking for the journal app.
 ### Jun 29, 2025 12:51
 - Cleaned up styles
 
+### Jun 29, 2025 13:14
+- Added keyboard support
+
