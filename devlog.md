@@ -3110,3 +3110,6 @@ Daily notes and progress tracking for the journal app.
 ### Jun 30, 2025 16:08
 - Added new feature
 
+### Jun 30, 2025 17:17
+- Added keyboard support
+
