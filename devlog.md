@@ -3116,3 +3116,6 @@ Daily notes and progress tracking for the journal app.
 ### Jun 30, 2025 20:25
 - Updated tests
 
+### Jun 30, 2025 21:17
+- Fixed mobile layout
+
