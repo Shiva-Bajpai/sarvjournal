@@ -3368,3 +3368,6 @@ Daily notes and progress tracking for the journal app.
 ### Jul 13, 2025 11:39
 - Cleaned up styles
 
+### Jul 13, 2025 13:23
+- Fixed mobile layout
+
