@@ -3374,3 +3374,6 @@ Daily notes and progress tracking for the journal app.
 ### Jul 13, 2025 14:19
 - Improved animations
 
+### Jul 13, 2025 21:07
+- Fixed scroll behavior
+
