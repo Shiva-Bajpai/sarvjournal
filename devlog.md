@@ -3383,3 +3383,6 @@ Daily notes and progress tracking for the journal app.
 ### Jul 13, 2025 23:06
 - Updated dependencies
 
+### Jul 14, 2025 08:11
+- Fixed scroll behavior
+
