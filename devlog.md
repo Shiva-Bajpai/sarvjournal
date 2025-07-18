@@ -3461,3 +3461,6 @@ Daily notes and progress tracking for the journal app.
 ### Jul 17, 2025 17:39
 - Refactored state management
 
+### Jul 18, 2025 08:44
+- Added keyboard support
+
