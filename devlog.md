@@ -3776,3 +3776,6 @@ Daily notes and progress tracking for the journal app.
 ### Jul 31, 2025 18:02
 - Cleaned up unused code
 
+### Jul 31, 2025 19:08
+- Fixed scroll behavior
+
