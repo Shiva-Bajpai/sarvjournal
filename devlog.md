@@ -3857,3 +3857,6 @@ Daily notes and progress tracking for the journal app.
 ### Aug 04, 2025 17:12
 - Added keyboard support
 
+### Aug 04, 2025 18:49
+- Fixed memory leak
+
