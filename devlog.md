@@ -4031,3 +4031,6 @@ Daily notes and progress tracking for the journal app.
 ### Aug 12, 2025 11:56
 - Fixed scroll behavior
 
+### Aug 12, 2025 13:03
+- Added keyboard support
+
