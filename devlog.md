@@ -4058,3 +4058,6 @@ Daily notes and progress tracking for the journal app.
 ### Aug 13, 2025 11:35
 - Added accessibility features
 
+### Aug 13, 2025 12:27
+- Improved animations
+
