@@ -4196,3 +4196,6 @@ Daily notes and progress tracking for the journal app.
 ### Aug 20, 2025 08:37
 - Fixed rendering bug
 
+### Aug 20, 2025 12:41
+- Fixed mobile layout
+
