@@ -4391,3 +4391,6 @@ Daily notes and progress tracking for the journal app.
 ### Aug 28, 2025 12:06
 - Fixed edge case bugs
 
+### Aug 28, 2025 18:50
+- Added keyboard support
+
