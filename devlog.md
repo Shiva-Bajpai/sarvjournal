@@ -4439,3 +4439,6 @@ Daily notes and progress tracking for the journal app.
 ### Aug 30, 2025 15:02
 - Updated color scheme
 
+### Aug 30, 2025 16:54
+- Fixed mobile layout
+
