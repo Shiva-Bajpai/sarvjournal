@@ -4478,3 +4478,6 @@ Daily notes and progress tracking for the journal app.
 ### Sep 01, 2025 10:50
 - Fixed memory leak
 
+### Sep 01, 2025 15:15
+- Added loading states
+
