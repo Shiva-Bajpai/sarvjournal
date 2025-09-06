@@ -4571,3 +4571,6 @@ Daily notes and progress tracking for the journal app.
 ### Sep 05, 2025 21:39
 - Improved user experience
 
+### Sep 06, 2025 09:55
+- Fixed mobile layout
+
