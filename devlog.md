@@ -4712,3 +4712,6 @@ Daily notes and progress tracking for the journal app.
 ### Sep 13, 2025 20:14
 - Added loading states
 
+### Sep 14, 2025 08:21
+- Improved navigation
+
