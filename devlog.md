@@ -4742,3 +4742,6 @@ Daily notes and progress tracking for the journal app.
 ### Sep 15, 2025 19:32
 - Added new feature
 
+### Sep 15, 2025 20:03
+- Fixed scroll behavior
+
