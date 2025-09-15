@@ -4730,3 +4730,6 @@ Daily notes and progress tracking for the journal app.
 ### Sep 15, 2025 09:59
 - Added keyboard support
 
+### Sep 15, 2025 13:40
+- Improved navigation
+
