@@ -4781,3 +4781,6 @@ Daily notes and progress tracking for the journal app.
 ### Sep 17, 2025 15:49
 - Added new component
 
+### Sep 17, 2025 16:26
+- Fixed mobile layout
+
