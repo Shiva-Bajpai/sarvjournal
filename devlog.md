@@ -5030,3 +5030,6 @@ Daily notes and progress tracking for the journal app.
 ### Sep 29, 2025 17:05
 - Added keyboard support
 
+### Sep 29, 2025 18:18
+- Fixed mobile layout
+
