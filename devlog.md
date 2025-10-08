@@ -5213,3 +5213,6 @@ Daily notes and progress tracking for the journal app.
 ### Oct 08, 2025 19:13
 - Cleaned up styles
 
+### Oct 08, 2025 20:02
+- Fixed scroll behavior
+
