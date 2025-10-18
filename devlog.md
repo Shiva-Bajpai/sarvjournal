@@ -5402,3 +5402,6 @@ Daily notes and progress tracking for the journal app.
 ### Oct 18, 2025 20:53
 - Refactored state management
 
+### Oct 18, 2025 21:48
+- Fixed scroll behavior
+
