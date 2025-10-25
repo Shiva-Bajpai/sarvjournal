@@ -5522,3 +5522,6 @@ Daily notes and progress tracking for the journal app.
 ### Oct 24, 2025 22:44
 - Updated documentation
 
+### Oct 25, 2025 12:40
+- Fixed mobile layout
+
