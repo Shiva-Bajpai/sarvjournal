@@ -5624,3 +5624,6 @@ Daily notes and progress tracking for the journal app.
 ### Oct 29, 2025 22:25
 - Cleaned up styles
 
+### Oct 30, 2025 09:19
+- Fixed scroll behavior
+
