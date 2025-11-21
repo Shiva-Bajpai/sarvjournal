@@ -6095,3 +6095,6 @@ Daily notes and progress tracking for the journal app.
 ### Nov 21, 2025 13:53
 - Fixed layout issues
 
+### Nov 21, 2025 15:22
+- Fixed mobile layout
+
