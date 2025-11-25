@@ -6170,3 +6170,6 @@ Daily notes and progress tracking for the journal app.
 ### Nov 25, 2025 13:08
 - Added loading states
 
+### Nov 25, 2025 15:39
+- Added keyboard support
+
