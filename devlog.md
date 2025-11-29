@@ -6248,3 +6248,6 @@ Daily notes and progress tracking for the journal app.
 ### Nov 28, 2025 23:00
 - Optimized performance
 
+### Nov 29, 2025 09:43
+- Fixed scroll behavior
+
