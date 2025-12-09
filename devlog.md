@@ -6485,3 +6485,6 @@ Daily notes and progress tracking for the journal app.
 ### Dec 09, 2025 18:42
 - Fixed scroll behavior
 
+### Dec 09, 2025 20:48
+- Added keyboard support
+
