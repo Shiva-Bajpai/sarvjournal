@@ -6500,3 +6500,6 @@ Daily notes and progress tracking for the journal app.
 ### Dec 10, 2025 17:14
 - Updated documentation
 
+### Dec 10, 2025 19:47
+- Improved touch handling
+
