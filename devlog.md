@@ -6644,3 +6644,6 @@ Daily notes and progress tracking for the journal app.
 ### Dec 17, 2025 18:30
 - Cleaned up unused code
 
+### Dec 17, 2025 20:56
+- Fixed scroll behavior
+
