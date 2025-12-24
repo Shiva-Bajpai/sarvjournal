@@ -6767,3 +6767,6 @@ Daily notes and progress tracking for the journal app.
 ### Dec 23, 2025 22:43
 - Fixed rendering bug
 
+### Dec 24, 2025 09:02
+- Updated documentation
+
