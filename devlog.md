@@ -6833,3 +6833,6 @@ Daily notes and progress tracking for the journal app.
 ### Dec 27, 2025 11:54
 - Cleaned up styles
 
+### Dec 27, 2025 13:56
+- Cleaned up unused code
+
