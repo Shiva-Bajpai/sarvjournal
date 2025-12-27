@@ -6845,3 +6845,6 @@ Daily notes and progress tracking for the journal app.
 ### Dec 27, 2025 21:42
 - Fixed edge case bugs
 
+### Dec 27, 2025 22:24
+- Fixed mobile layout
+
