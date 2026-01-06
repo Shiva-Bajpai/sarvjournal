@@ -7028,3 +7028,6 @@ Daily notes and progress tracking for the journal app.
 ### Jan 06, 2026 14:53
 - Fixed scroll behavior
 
+### Jan 06, 2026 15:25
+- Fixed mobile layout
+
